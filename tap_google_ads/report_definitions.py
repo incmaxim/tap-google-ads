@@ -243,6 +243,7 @@ AD_PERFORMANCE_REPORT_FIELDS = [
     "ad_group_ad.ad.final_mobile_urls",
     "ad_group_ad.ad.final_urls",
     "ad_group_ad.ad.id",
+    "ad_group_ad.ad.name",
     "ad_group_ad.ad.image_ad.image_url",
     "ad_group_ad.ad.image_ad.mime_type",
     "ad_group_ad.ad.image_ad.name",

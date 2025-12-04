@@ -46,7 +46,6 @@ ACCOUNT_PERFORMANCE_REPORT_FIELDS = [
     "metrics.average_cpc",
     "metrics.average_cpe",
     "metrics.average_cpm",
-    "metrics.average_cpv",
     "metrics.clicks",
     "metrics.content_budget_lost_impression_share",
     "metrics.content_impression_share",

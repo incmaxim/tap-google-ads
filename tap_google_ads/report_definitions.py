@@ -72,7 +72,6 @@ ACCOUNT_PERFORMANCE_REPORT_FIELDS = [
     "metrics.search_rank_lost_impression_share",
     "metrics.value_per_all_conversions",
     "metrics.value_per_conversion",
-    "metrics.video_views",
     "metrics.view_through_conversions",
     "segments.ad_network_type",
     "segments.click_type",
